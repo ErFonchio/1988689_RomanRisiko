@@ -5,3 +5,14 @@
 # USER STORIES:
 
 <list of user stories>
+
+1) As a user I want to register to the web app
+2) As a user I want to be able to login to the web app, check my profile and eventually modify it
+
+
+SCRUM 
+
+1. FIRST SPRINT 
+    Implement the interface that allows users to register, login, check and eventually modify their profile.
+    Implement the basic backend that handles the user's registration and login.
+    Implement the basic database that stores users' information.
